@@ -1,0 +1,14 @@
+
+<RCC>
+<qresource>
+<file>content/App.qml</file>
+<file>content/Screen01.qml</file>
+<file>imports/ToDoDemo/Constants.qml</file>
+<file>imports/ToDoDemo/DirectoryFontLoader.qml</file>
+<file>imports/ToDoDemo/EventListModel.qml</file>
+<file>imports/ToDoDemo/EventListSimulator.qml</file>
+<file>imports/ToDoDemo/qmldir</file>
+<file>qtquickcontrols2.conf</file>
+<file>ToDoDemo.qmlproject</file>
+</qresource>
+</RCC>
